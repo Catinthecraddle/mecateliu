@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 cambio desde bash
+=======
+cambio desde github
+>>>>>>> c0f8590eb5d7968dcb044adab68da45fe4cb2476
+aprobado
