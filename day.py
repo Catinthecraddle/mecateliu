@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 modificacion de day desde master
-modificacion de archivo normal
+=======
+modificacion de dasy desde pequod
+>>>>>>> pequod
+modificacion de archivo normal.
